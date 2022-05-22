@@ -1,0 +1,14 @@
+stages:
+  - build
+  - deploy
+
+build-site:
+  stage: build
+  script:
+    - mkdocs build
+
+deploy-site:
+  stage: deploy
+  script:
+    - mkdocs gh-deploy
+    - git push origin gh-pages
