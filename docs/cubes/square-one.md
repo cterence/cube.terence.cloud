@@ -6,7 +6,7 @@
 
     (1, 0) / (0, -3) / (0, 3) / (0, -3) / (0, -3) / (0, 6) / (-1, 0)
 
-## Edge to their layers
+## Edges to their layer
 
 <img src="/images/square-one-2.jpg" width="200"/>
 

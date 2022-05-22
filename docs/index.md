@@ -2,6 +2,8 @@
 
 You will find here some useful algorithms to solve Rubik's cubes.
 
+Made by [me](https://www.terence.cloud/).
+
 ## Cubes
 
 

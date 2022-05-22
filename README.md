@@ -6,4 +6,4 @@ It's hosted on GitHub Pages and available at [cube.terence.cloud](https://cube.t
 
 ## Images
 
-Source des images de la page principale : [cube-store.fr](https://www.cube-store.fr/blogs/blog-rubiks-cubes/tous-les-differents-types-de-rubiks-cube-et-twisty-puzzles)
+Source of the main page images : [cube-store.fr](https://www.cube-store.fr/blogs/blog-rubiks-cubes/tous-les-differents-types-de-rubiks-cube-et-twisty-puzzles).
